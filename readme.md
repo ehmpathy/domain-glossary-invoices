@@ -12,12 +12,9 @@ declare a ubiquitious language for
 
 - domain objects related to `invoice`s
   - invoice
-  - currency
+  - invoice item
 
 - procedures related to `invoice`s
-  - cast invoice to words
-  - cast words to invoice
-  - sum invoices
   - etc
 
 # install
