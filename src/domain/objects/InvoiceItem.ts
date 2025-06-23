@@ -1,6 +1,5 @@
 import { UniDateTime } from '@ehmpathy/uni-time';
-
-import { Price } from '../../../../domain-glossary-price/src';
+import { Price } from 'domain-glossary-price';
 
 /**
  * .what = a product or service provided by the invoice.issuer and charged to the invoice.receiver, itemized on an invoice
